@@ -18,4 +18,4 @@ A concise presentation summarizing the key points from the article, including vi
 - [Video Presentation](https://youtu.be)  
 A 10-15 minute recorded presentation explaining the content of the article and the slide deck with visuals.
 
-## Repository Structure
+
