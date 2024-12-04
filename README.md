@@ -17,7 +17,7 @@ A detailed article summarizing the state-of-the-art deep learning techniques for
 A concise presentation summarizing the key points from the article, including visualizations and comparisons.
 
 ### 4. Video Presentation
-- [Video Presentation](https://youtu.be)  
+- [Video Presentation](https://youtu.be/Vebhvg1_5VU)  
 A 10-15 minute recorded presentation explaining the content of the article and the slide deck with visuals.
 
 
